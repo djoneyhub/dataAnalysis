@@ -1,5 +1,4 @@
 #Adjani Putri Cemylla Udayana
-#TP061651
 #read employee_attrition.csv file
 emp_data = read.csv("/Users/djoneeeeyyy/Documents/PFDA /PFDA ASS/employee_attrition.csv")
 emp_data
